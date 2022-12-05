@@ -6,7 +6,7 @@
         display: flex;
         font-family: sans-serif;
         font-size: 18pt;
-        color: #FFB1FD;
+        color: #ffb1fd;
         padding: 5px;
         border: 1px solid #ffffff;
         justify-content: left;
